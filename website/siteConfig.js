@@ -15,7 +15,7 @@ const siteConfig = {
     title: 'Meghna P Ayyar', // Title for your website.
     tagline: 'Curious, innovative and aspring to improve',
     profilePhoto: 'img/profile.png',
-    url: 'https://mayyar7.github.io', // Your website URL
+    url: 'https://Mayyar7.github.io', // Your website URL
     baseUrl: '/test-site/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
